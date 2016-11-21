@@ -1,3 +1,5 @@
+// Package forbidden is a handy collection of strings
+// to prevent users from signup.
 package forbidden
 
 import "strings"
